@@ -1,4 +1,4 @@
-/*#include<bits/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 int main(){
    int arr[50],n,value;
@@ -11,7 +11,10 @@ int main(){
             countt++; 
    } 
    cout << "Frequency of element " << value << " is: " << countt << endl;
-}*/
+}
+
+//count number
+
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
